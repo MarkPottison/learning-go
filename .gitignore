@@ -1,0 +1,11 @@
+# Исполняемые файлы
+*.exe
+
+# Папка GoLand / IntelliJ IDEA
+.idea/
+
+# Кэш компилятора Go
+*.test
+
+# Логи
+*.log
